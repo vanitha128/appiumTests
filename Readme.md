@@ -25,12 +25,12 @@ This project is built using maven tool for its simplicity of use w.r.t downloadi
 - Exits
 
 ## Test run results - testng html report
-![picture](src/test/resources/test-result/Screen Shot 2020-05-09 at 2.09.32 pm.png)
+![picture](test-output/test-result/testResult.png)
 
 ## test flow screenshots
-![picture](src/test/resources/MaterialLoginScreenshots/loginPage.png
-![picture](src/test/resources/MaterialLoginScreenshots/LoginPagewithKeypad.png
-![picture](src/test/resources/MaterialLoginScreenshots/LoginSuccessPage.png
+![picture](test-output/MaterialLoginScreenshots/loginPage.png)
+![picture](test-output/MaterialLoginScreenshots/LoginPagewithKeypad.png)
+![picture](test-output/MaterialLoginScreenshots/LoginSuccessPage.png)
 
 
 
