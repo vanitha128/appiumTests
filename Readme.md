@@ -1,8 +1,8 @@
 # Sample project for Mobile testing using Appium, Java, TestNG and Maven
-# This project uses page object factory pattern to avoid tests being too sensitive to UI changes.
-# This project uses data driven approach in order to keep data separate from functional test logic and to aid with quick scaling.
-# This project uses testNG test framework for its sophisticated features such as html run reports, ability to group and prioritize tests, parallel testing, data parameterization.
-# This project is built using maven tool for its simplicity of use w.r.t downloading dependencies and building the project.
+This project uses page object factory pattern to avoid tests being too sensitive to UI changes.
+This project uses data driven approach in order to keep data separate from functional test logic and to aid with quick scaling.
+This project uses testNG test framework for its sophisticated features such as html run reports, ability to group and prioritize tests, parallel testing, data parameterization.
+This project is built using maven tool for its simplicity of use w.r.t downloading dependencies and building the project.
 
 ## PreRequisite
 
@@ -23,6 +23,14 @@
 - Clicks Login button
 - Validates that home page is displayed
 - Exits
+
+## Test run results - testng html report
+![picture](src/test/resources/test-result/Screen Shot 2020-05-09 at 2.09.32 pm.png)
+
+## test flow screenshots
+![picture](src/test/resources/MaterialLoginScreenshots/loginPage.png
+![picture](src/test/resources/MaterialLoginScreenshots/LoginPagewithKeypad.png
+![picture](src/test/resources/MaterialLoginScreenshots/LoginSuccessPage.png
 
 
 
